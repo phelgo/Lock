@@ -1,3 +1,4 @@
 _Sources
 xcuserdata
 *.xccheckout
+.DS_Store
